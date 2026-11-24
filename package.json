@@ -1,0 +1,10 @@
+{
+  "name": "studymind-ai",
+  "version": "2.0.0",
+  "private": true,
+  "description": "StudyMind AI - AI Study Assistant using RAG",
+  "scripts": {
+    "start": "python run.py",
+    "dev": "python run.py"
+  }
+}
